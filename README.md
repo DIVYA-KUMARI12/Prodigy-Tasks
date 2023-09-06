@@ -61,6 +61,9 @@ You can customize the visualization by making the following modifications to the
 Output Examples
 Here's an example of how the age distribution bar chart might look:
 
+![download](https://github.com/DIVYA-KUMARI12/Prodigy-Tasks/assets/70780478/9b387bc1-21e7-4a9b-bb0f-bfa5f6da9925)
+
+
 Age Distribution Bar Chart
 
 Contributing
