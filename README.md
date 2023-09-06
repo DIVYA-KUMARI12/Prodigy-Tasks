@@ -37,31 +37,32 @@ pip install pandas matplotlib
 
 # Getting Started
 1. Data Preparation
-* Ensure you have the relevant population data in an Excel file (e.g., "2.1_Population_dynamics.xlsx") located in the same directory as your script.
-* The Excel file should contain a column with age data (e.g., 'Age').
+- Ensure you have the relevant population data in an Excel file (e.g., "2.1_Population_dynamics.xlsx") located in the same directory as your script.
+- The Excel file should contain a column with age data (e.g., 'Age').
 
 2. Running the Script
-* Open a Python environment (e.g., Jupyter Notebook, Python script).
-* Copy and paste the provided code for creating a bar chart visualization into your Python environment.
+- Open a Python environment (e.g., Jupyter Notebook, Python script).
+- Copy and paste the provided code for creating a bar chart visualization into your Python environment.
 
 3.Executing the Visualization
-* Run the script.
-* The code will load the data, process it, and create a bar chart representing the age distribution in the population dataset.
+- Run the script.
+- The code will load the data, process it, and create a bar chart representing the age distribution in the population dataset.
 
 # Usage
 Use this project to:
-* Gain insights into the age distribution of a population.
-* Visualize age demographics for various analysis purposes.
+- Gain insights into the age distribution of a population.
+- Visualize age demographics for various analysis purposes.
 
 Customization
 You can customize the visualization by making the following modifications to the code:
-* Replace 'Age' in df['Age'] with the actual column name containing age data in your dataset.
-* Adjust the appearance of the bar chart, such as labels, colors, and size, to suit your preferences.
+- Replace 'Age' in df['Age'] with the actual column name containing age data in your dataset.
+- Adjust the appearance of the bar chart, such as labels, colors, and size, to suit your preferences.
 
 Output Examples
 Here's an example of how the age distribution bar chart might look:
 
-![download](https://github.com/DIVYA-KUMARI12/Prodigy-Tasks/assets/70780478/9b387bc1-21e7-4a9b-bb0f-bfa5f6da9925)
+![download](https://github.com/DIVYA-KUMARI12/Prodigy-Tasks/assets/70780478/d0e7f634-3c89-4988-bf48-a44aaec416c7)
+
 
 
 Age Distribution Bar Chart
