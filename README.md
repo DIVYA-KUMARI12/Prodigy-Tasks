@@ -1,14 +1,10 @@
 # Prodigy-Tasks
-## Prodigy_Data-Science_Task-01 
-### Creating a Bar or Histogram Visualization
+## Prodigy_Data-Science_Task-01
+Creating a Bar or Histogram Visualization
 You can use this code to create a bar or histogram visualization of the distribution of a categorical or continuous variable in your population dataset. For example, you can visualize the distribution of ages or gender in the population.
-
-# Population Age Distribution Visualization
-
+### Population Age Distribution Visualization
 This project allows you to create a bar chart to visualize the age distribution within a population dataset. It's a tool for gaining insights into the age demographics of a population.
-
 ## Table of Contents
-
 - [Introduction](#introduction)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
@@ -17,22 +13,16 @@ This project allows you to create a bar chart to visualize the age distribution 
 - [Examples](#examples)
 - [Contributing](#contributing)
 - [License](#license)
-
+  
 ## Introduction
-
-Understanding the distribution of ages within a population is crucial for various analyses and decision-making processes. This project simplifies the process by providing a Python script to create a bar chart visualization.
-
+Understanding the distribution of ages within a population is crucial for various analyses and decision-making processes. This project simplifies the process by providing a Python script to create a bar chart visualisation.
 ## Prerequisites
-
 Before using the code, ensure you have the following prerequisites installed:
-
-- Python 3.x
-- Pandas
-- Matplotlib
+-Python 3.x
+-Pandas
+-Matplotlib
 
 You can install the required Python libraries using pip:
-
-```bash
 pip install pandas matplotlib
 
 # Getting Started
@@ -51,14 +41,14 @@ pip install pandas matplotlib
 # Usage
 Use this project to:
 - Gain insights into the age distribution of a population.
-- Visualize age demographics for various analysis purposes.
+- Visualise age demographics for various analysis purposes.
 
-Customization
-You can customize the visualization by making the following modifications to the code:
+# Customization
+You can customise the visualisation by making the following modifications to the code:
 - Replace 'Age' in df['Age'] with the actual column name containing age data in your dataset.
-- Adjust the appearance of the bar chart, such as labels, colors, and size, to suit your preferences.
+- Adjust the appearance of the bar chart, such as labels, colours, and size, to suit your preferences.
 
-Output Examples
+# Examples
 Here's an example of how the age distribution bar chart might look:
 
 ![download](https://github.com/DIVYA-KUMARI12/Prodigy-Tasks/assets/70780478/d0e7f634-3c89-4988-bf48-a44aaec416c7)
@@ -67,8 +57,10 @@ Here's an example of how the age distribution bar chart might look:
 
 Age Distribution Bar Chart
 
-Contributing
+# Contributing
 If you would like to contribute to this project or have any suggestions for improvements, feel free to create a pull request or open an issue.
 
-License
+# License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+
